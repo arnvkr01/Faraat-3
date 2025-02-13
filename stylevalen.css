@@ -9,7 +9,7 @@ body{
 .hart{
     position: relative;
     top: 0;
-     /* left: 12.5%;  */
+    left: 37.5%; 
     width: 100px;
     height: 100px;
     background-color: #f20044;
@@ -122,9 +122,9 @@ body{
     position:absolute;
     font-family: 'Brush Script MT',cursive;
     text-align: center;
-    line-height: 25px;
-    text-size-adjust: 50px;
-    top: 19px;
+    line-height: 30px;
+    text-size-adjust: 100px;
+    top: 30px;
     left: 85px;
     color: #003049;
     
