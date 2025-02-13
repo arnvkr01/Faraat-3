@@ -15,6 +15,7 @@ body{
     background-color: #f20044;
     transform: rotate(-45deg);
     box-shadow: -10px 10px 90px #f20044;
+    aspect-ratio: 1/1;
     animation: hart 0.9s ease-in-out infinite;
     z-index: 1000;
     
